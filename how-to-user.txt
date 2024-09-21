@@ -1,0 +1,2 @@
+open terminal -> live-server
+(npm install -g live-server)
